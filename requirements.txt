@@ -1,4 +1,6 @@
 pandas
 numpy
+scikit-learn
+Flask
 -e .
 #pip install ipykernel when working in notebook,pip install jupyterlab notebook nbconvert nbformat qtconsole traitlets nbclient
